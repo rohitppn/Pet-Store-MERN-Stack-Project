@@ -78,7 +78,7 @@ ecommerce-client/
    ```
 
 ## 📌 Future Enhancements
-- Implement **AWS S3** for secure image & video uploads.
+- Add Order page (similarly cart and wishlist page with use Reducer)
 - Add **payment integration** (Razorpay, Stripe, etc.).
 - Improve UI/UX with **better animations and mobile responsiveness**.
 - Optimize **performance & SEO** for better user engagement.
@@ -105,6 +105,6 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 - **Developer**: Rohit Sharma
-- **Portfolio**: [rohitportfolio.shodns.in](https://rohitportfolio.shodns.in/)
-- **Email**: your-email@example.com
+- **Email**: mail2rohitsharmappn@gmail.com
+- **Phone**: +91 7717766954
 
